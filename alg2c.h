@@ -7,7 +7,6 @@
 #define para for
 #define SeNão else
 #define nulo NULL
-int system(const char *com);
 #define Executar system
 #define constante const
 #define Ficheiro FILE
